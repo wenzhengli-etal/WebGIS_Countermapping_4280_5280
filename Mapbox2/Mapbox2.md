@@ -1,5 +1,5 @@
 
-# Week 7 - Data-driven styling and interactivity in Mapbox
+# Data-driven styling and interactivity in Mapbox
 
 **Today we will cover**
 
@@ -8,6 +8,12 @@
 - Interactivity: Layer selection
 - New topic
 - New topic 2
+
+
+
+**This week's materials are adapted from:**  
+[Prof. Wenfei Xu's GitHub Repository](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping).  
+These course materials are used with her permission.
 
 
 
@@ -378,7 +384,7 @@ It's not a great map.
   ``` -->
 
 I think one of the confusing aspects of this choropleth is that every value maps onto a slightly different color. Let's have values within a range map onto *one* color instead. Rather than using an interpolation, we are going to use a `'step'` expression.`"step"` uses the following syntax:
-```
+  ```
 ["step",
     input: number,
     stop_output_0: OutputType,
@@ -401,7 +407,7 @@ I think one of the confusing aspects of this choropleth is that every value maps
     ['get','AMR5E002'],
     '#edf8e9',200,'#bae4b3',400,'#74c476',600,'#31a354',800,'#006d2c'
   ]
-  ```
+```
 
 This reads as: All values 200 or smaller are `#edf8e9` color, values, 200-400 are `#bae4b3`, etc.
 
