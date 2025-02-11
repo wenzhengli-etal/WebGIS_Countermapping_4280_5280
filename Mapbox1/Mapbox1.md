@@ -1,11 +1,20 @@
 
-# Week 6 - Introduction to web mapping using Mapbox GL
+# Web mapping using Mapbox GL 1
 
 **Today we will cover**
 
 - Set up: Github, Sublime, and Mapbox
+
 - Uploading point data and styling it
+
 - Basic components of a Mapbox web map
+
+  
+
+> **This week's materials are adapted from:**  
+> [Prof. Wenfei Xu's GitHub Repository](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping)
+
+
 
 # 1. Lab Tutorial
 
