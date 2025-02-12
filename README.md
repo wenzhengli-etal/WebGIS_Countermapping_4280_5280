@@ -3,20 +3,20 @@
 Cornell University  
 
 ## 📌 Course Description  
-This hybrid practice-discourse course introduces students to the ideas, debates, and practices in critical cartography and digital geography. How, who, and towards what purposes are spatial relationships represented through maps?  
+This hybrid practice-discourse course introduces students to the ideas, debates, and practices in critical cartography and digital geography. How, who, and towards what purposes are spatial relationships represented through maps?
 
-Throughout the semester, we will approach mapping with an emphasis on the ethos of countermapping to make more legible those perspectives, claims, and epistemologies that are generally underrepresented. We will also discuss how new mapping technologies and novel big data are shifting the mapping landscape, what new tensions and possibilities arise, and how these new tools supplant or reinforce existing power dynamics.  
+We will approach mapping through the lens of countermapping, an approach that challenges dominant narratives by making visible the perspectives, claims, and epistemologies that are often excluded. Alongside this, we will explore how emerging mapping technologies and big data are reshaping the field—raising new possibilities but also reinforcing existing power dynamics.
 
-Students will also “read” and critique maps that speak to each week’s theme in order to understand the design, information, and context surrounding the creation of the map. Alongside our discussions, we will be learning tools and software to create our own web/cloud-based narrative maps and countermaps, with the aim of using these in a final research project of students’ own choosing.  
+Students will critically analyze and deconstruct maps, assessing their design, data sources, and underlying assumptions. Through hands-on labs, we will develop practical skills in web and cloud-based mapping tools, using platforms like Mapbox GL, ArcGIS Online, and CartoDB to create interactive, narrative-driven maps. The course culminates in a self-directed final project, where students will apply these skills to investigate a spatial question of their choice.
 
 ---
 
 ## 🎯 Learning Objectives and Outcomes  
-In this course, we will develop tools to build a multi-perspective question, argument, and narrative through map-making. These consist not only of the software, platforms, and code you will learn but also the theory, language, and frameworks that support your research. With this in mind, the core learning objectives are:  
+In this course, we will develop tools to build a multi-perspective question, argument, and narrative through map-making. These consist not only of the software, platforms, and code you will learn but also the theory and frameworks that support your research. The core learning objectives are:  
 
-1️⃣ Understand the discourses and tensions in mapping and countermapping epistemologies
+1️⃣ Examine the discourses, tensions, and power dynamics in mapping and countermapping epistemologies;
 3️⃣ Develop foundational skills in web/cloud-based GIS platforms (e.g., Mapbox GL, Felt, CatroDB, etc) and web technologies (HTML/CSS/JS) for interactive mapping. 
-4️⃣ Clearly communicate your narrative through mapmaking, contextualization, textual description, and presentation that demonstrates multiple ways of understanding a spatial question in urban development  
+4️⃣ Clearly communicate spatial narrative through mapmaking, contextualization, textual description, and presentation that demonstrates multiple ways of understanding a spatial question in urban development 
 
 ---
 
