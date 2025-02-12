@@ -39,6 +39,6 @@ A laptop is required for the course. Either a Mac or PC is fine, but please make
 ## 📂 Course Resources  
 📖 **Syllabus**: [Download PDF](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280/raw/main/Syllabus/mapping_countermapping_syllabus_fall24_final.pdf)  
 
-📌 **GitHub Repository**: [Course Materials & Assignments](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280)  
+📌 **GitHub Repository**: [Course Materials](https://github.com/wenzhengli-etal/WebGIS_Countermapping_4280_5280)  
 ---
 ---
